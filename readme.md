@@ -1,4 +1,4 @@
-﻿Kailos
+﻿Bulls And Cows - Kotlin Edition
 =============
-Wifi device paralysis program using ARP vulnerability.
-This is Backup Project.
+코틀린으로 만들어진 숫자야구 게임입니다.   
+코틀린 배우는 용도로 만든거라 불완전하니 양해 부탁드립니다.
